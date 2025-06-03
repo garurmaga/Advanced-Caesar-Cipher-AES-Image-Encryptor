@@ -370,12 +370,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Cryptography Community** - For educational resources and standards
 - **Open Source Community** - For inspiration and collaboration
 
-## 📞 Support
+📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/garurmaga/caesar-aes-encryptor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/garurmaga/caesar-aes-encryptor/discussions)
-- **Email**: abhijeetranjan839@gmail.com
-- **Documentation**: [Wiki](https://github.com/garurmaga/caesar-aes-encryptor/wiki)
+    Issues: https://github.com/garurmaga/Advanced-Caesar-Cipher-AES-Image-Encryptor/issues
+
+    Discussions: https://github.com/garurmaga/Advanced-Caesar-Cipher-AES-Image-Encryptor/discussions
+
+    Email: mailto:abhijeetranjan839@gmail.com
+
+    Documentation (Wiki): https://github.com/garurmaga/Advanced-Caesar-Cipher-AES-Image-Encryptor/wiki
 
 ## 🔄 Version History
 
