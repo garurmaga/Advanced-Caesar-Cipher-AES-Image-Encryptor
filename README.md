@@ -116,7 +116,7 @@ This application demonstrates the evolution of cryptography from classical metho
 1. **Clone the repository**
    ```bash
    https://github.com/garurmaga/Text-Encryption-Using-Cryptographic-Algorithms.git
-   cd caesar-aes-encryptor
+   cd Advanced-Caesar-Cipher-AES-Image-Encryptor
    ```
 
 2. **Create virtual environment** (recommended)
