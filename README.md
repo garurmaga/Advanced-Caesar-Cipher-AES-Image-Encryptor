@@ -115,7 +115,7 @@ This application demonstrates the evolution of cryptography from classical metho
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/caesar-aes-encryptor.git
+   https://github.com/garurmaga/Text-Encryption-Using-Cryptographic-Algorithms.git
    cd caesar-aes-encryptor
    ```
 
@@ -372,10 +372,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/caesar-aes-encryptor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/caesar-aes-encryptor/discussions)
-- **Email**: your.email@example.com
-- **Documentation**: [Wiki](https://github.com/yourusername/caesar-aes-encryptor/wiki)
+- **Issues**: [GitHub Issues](https://github.com/garurmaga/caesar-aes-encryptor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/garurmaga/caesar-aes-encryptor/discussions)
+- **Email**: abhijeetranjan839@gmail.com
+- **Documentation**: [Wiki](https://github.com/garurmaga/caesar-aes-encryptor/wiki)
 
 ## 🔄 Version History
 
